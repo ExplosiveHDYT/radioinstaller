@@ -2,6 +2,7 @@ rednet.open("back")
 
 -- Prompt the user to enter a channel to join
 io.write("Enter a channel to join: ")
+print("")
 local recieveProtocol = read()
 
 -- If the user doesn't enter anything, set the protocol to the default "availableChannels"

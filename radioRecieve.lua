@@ -1,4 +1,4 @@
-rednet.open("top")
+rednet.open("back")
 
 -- Prompt the user to enter a channel to join
 io.write("Enter a channel to join: ")
